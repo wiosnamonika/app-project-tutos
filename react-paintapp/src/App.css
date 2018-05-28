@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+body {
+      font-family: 'Roboto Condensed', serif;
+    }
+    .main {
+      display: flex;
+      justify-content: center;
+    }
+    .color-guide {
+      margin: 20px 40px;
+    }
+    h5 {
+      margin-bottom: 10px;
+    }
+    .user {
+      padding: 7px 15px;
+      border-radius: 4px;
+      color: #ffffff;
+      font-size: 13px;
+      font-weight: bold;
+      background: #80dfff;
+      margin: 10px 0;
+    }
+    .guest {
+      background: #F0C987;
+      color: white;
+    }
+    .canvas-style { border: 2px solid #000000; background-color: #ffffff;}
+
